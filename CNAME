@@ -1,1 +1,1 @@
-dig vkanatememecreator.com
+$ dig vkanatememecreator.com +nostats +nocomments +nocmd
