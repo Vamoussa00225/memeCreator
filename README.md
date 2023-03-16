@@ -1,5 +1,7 @@
 # memeCreator
 
+Visitez le site à travers ce lien : 
+
 Creation d'une plateforme de creation de meme.
 
 Les concepts Javascript appliques dans ce projet :
